@@ -1,5 +1,5 @@
-# STAR 
-# VERSION              2.5.2.a
+# StringTie 
+# VERSION             1.2.4
 # 
 
 FROM      ubuntu:14.04.3 
